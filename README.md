@@ -7,7 +7,11 @@ We want to use this repository as an archive of course material (slides/tutorial
 
 Also check out our Git [playlist](https://www.youtube.com/playlist?list=PLVYDhqbgYpYUGxRdtQdYVE5Q8h3bt6SIA) for tutorials
 
-## learning goals lesson 1
+## Readings in preparation for the Git course
+
+* We suggest the reading of this open access article before the course begins: [A Quick Introduction to Version Control with Git and GitHub](https://doi.org/10.1371/journal.pcbi.1004668). The article introduces version control and the git software, along with the commands explained in the course.
+
+## Learning goals lesson 1
  
 
 ### The teacher should:
@@ -29,7 +33,7 @@ Also check out our Git [playlist](https://www.youtube.com/playlist?list=PLVYDhqb
 * [ ] Know how to commit and push files in that new repository.
 
 
-## learning goals lesson 2
+## Learning goals lesson 2
 
 ### The teacher should:
 
